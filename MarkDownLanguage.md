@@ -7,7 +7,7 @@
   using character **"#"** to describe  
   more **"#"** used, smaller level it is  
         
-### **2.Change Line use double or more SpaceKey**  
+### **2.Change Line use double or more SpaceKey at each end of Line**  
    
     
 ### **3.Bold and *Italic*:**  
