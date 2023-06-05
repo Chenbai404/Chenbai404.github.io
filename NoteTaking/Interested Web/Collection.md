@@ -26,6 +26,8 @@
 > MIT courses
 >> Link: https://ocw.mit.edu/
 
+> Jiumo Search---to search eBook
+>> Link: https://www.jiumodiary.com/
 
 ## Other
 
