@@ -6,7 +6,8 @@
  ### **1. Heading/ Titel :**
   using character **"#"** to describe  
   more **"#"** used, smaller level it is  
-        
+    
+    Notes: using shortcut key: Ctrl + B 
 ### **2.Change Line use double or more SpaceKey at each end of Line**  
    
     
