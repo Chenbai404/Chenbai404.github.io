@@ -1,6 +1,6 @@
 # Algorithm Practise  
->Link:  
->>https://leetcode.com/
+>LeetCode 
+>>Link:  https://leetcode.com/
 
 
 
