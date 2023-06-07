@@ -17,16 +17,7 @@
 >> Link: https://www.bilibili.com/
 
 
-## Academic Searching Tools
 
-> Pubmed
->> Link: https://www.ncbi.nlm.nih.gov/pmc/
-
-> Google Schoolar: 
->> Link: https://scholar.google.com/
-  
-> Jiumo Search---to search eBook
->> Link: https://www.jiumodiary.com/
 
 ## Computer Web
 
