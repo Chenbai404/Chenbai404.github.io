@@ -26,9 +26,7 @@
 > MIT courses
 >> Link: https://ocw.mit.edu/
 
-> Jiumo Search---to search eBook
->> Link: https://www.jiumodiary.com/
-
+ 
 ## Other
 
 > QQ mailbox
@@ -45,7 +43,9 @@
 
 > Google Schoolar: 
 >> Link: https://scholar.google.com/
-
+  
+> Jiumo Search---to search eBook
+>> Link: https://www.jiumodiary.com/
 
 ## Computer Web
 
