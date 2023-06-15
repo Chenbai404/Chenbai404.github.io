@@ -70,8 +70,10 @@
  **Like :**  
 ---
 
-
-
+### **8. Image :** 
+    Just copy and past, the github will create code automatically.
+**E.g.**  
+<img width="598" alt="image" src="https://github.com/Chenbai404/chenbaiblog.github.io/assets/54025529/678aac89-9368-470c-8bb6-e086d18ea3cb">
 
 
 
