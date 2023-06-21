@@ -1,7 +1,7 @@
 # Resource
 > Official resource
->> Link: https://docs.python.org/zh-cn/3/tutorial/introduction.html Chinese
->> Link: https://docs.python.org/3/tutorial/introduction.html English
+>> Link: https://docs.python.org/zh-cn/3/tutorial/introduction.html Chinese  
+>> Link: https://docs.python.org/3/tutorial/introduction.html English  
 
 # Notes
     the mixed type of operands will transfor int --> float  
