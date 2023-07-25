@@ -13,11 +13,11 @@
   
   
 **3. using str(number) to transfer number into string:**
->a = 123
-  
->b = str(1)
-  
->print(b) will get '123'  
+>a = 123  
+    
+>b = str(1)  
+    
+>print(b) will get '123'    
   
 
 **4. for i in range(min,max):**    
