@@ -31,4 +31,11 @@
   
 >>'code to trans string into list' and then range(0, length(string))
 
+**5. dictionary:**  
+>sometimes, just search 'key' will get value easily
   
+>Creat: a = {key : value, key : value}    
+>Access: a[key]    
+>Revise: a[key] = AfterRevising    
+>Delete item: del a[key] or using a.clear() to delete all items    
+>Add item: a[key] = AddItem, if key has already existed, it will be revised or add new item       
