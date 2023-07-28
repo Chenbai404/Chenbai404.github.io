@@ -57,11 +57,14 @@
 >make the number of item mutiple, not size    
     
 **6. Function: two Lists combine one List**    
-    List1.extend(List2)
+     List1.extend(List2)
 
+**7. Fuction: creat a nonredundantly random List**
+    random.sample(sequence,HowManyNumbers)
 
+## Tuple
 
-
+**1.**
 
 
 
