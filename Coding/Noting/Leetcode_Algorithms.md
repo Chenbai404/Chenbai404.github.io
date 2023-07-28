@@ -9,18 +9,20 @@
   
 >so ,don`t need to make a string list and then to account its length.
   
->>e.g. for i in range(0, len(string))
-
->>print
+    e.g. for i in range(0, len(string))
+            print(string[i])
 
 ## Dictionary:  
 >sometimes, just search 'key' will get value easily
-  
+
+**1. Bacic Use:**
 >Creat: a = {key : value, key : value}    
 >Access: a[key]    
 >Revise: a[key] = AfterRevising    
 >Delete item: del a[key] or using a.clear() to delete all items    
 >Add item: a[key] = AddItem, if key has already existed, it will be revised or add new item
+
+
 
 
 ## List:
