@@ -11,13 +11,15 @@
   
     e.g. for i in range(0, len(string))
             print(string[i])
+**2. String**
+>(1)StringList[0] is the first letter in the string
 
 ## Dictionary:    
 **It can contain any types of data**  
 **Note:**  
->sometimes, just search 'key' will get value easily
-
-
+>sometimes, just search 'key' will get value easily    
+    
+>The Dictionary is mutable data, but its items can be immutable.  
 **1. Bacic Use:**
     Creat: a = {key : value, key : value}    
     Access: a[key]    
@@ -47,3 +49,19 @@
 >b = str(1)  
     
 >print(b) will get '123'   
+
+**4.Function: find how many times item appear:**
+    List.count(target)   
+
+**5. List * Number:**
+>make the number of item mutiple, not size
+
+
+
+
+
+
+
+
+
+
