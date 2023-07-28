@@ -37,27 +37,27 @@
 
 **1. Can creat a empty list:**  
     a = [] or list()
-  
-
-**2.Fuction: add a item into the end of list:**  
-    listname.append(item)  
-  
-  
-**3. using str(number) to transfer number into string:**
->a = 123  
+      
     
->b = str(1)  
+**2.Fuction: add a item into the end of list:**      
+    listname.append(item)      
+  
+      
+**3. using str(number) to transfer number into string:**    
+>a = 123      
+        
+>b = str(1)      
+        
+>print(b) will get '123'       
     
->print(b) will get '123'   
-
-**4.Function: find how many times item appear:**
-    List.count(target)   
-
-**5. List * Number:**
->make the number of item mutiple, not size
-
-
-
+**4.Function: find how many times item appear:**    
+    List.count(target)     
+    
+**5. List * Number:**    
+>make the number of item mutiple, not size    
+    
+**6. Function: two Lists combine one List**    
+    List1.extend(List2)
 
 
 
