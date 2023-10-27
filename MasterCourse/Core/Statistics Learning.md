@@ -1,9 +1,9 @@
-# 1. Chi-Squared Test  
+# 1. Data integration - Chi-Squared Test  
 > Learning Link: https://www.jmp.com/zh_cn/statistics-knowledge-portal/chi-square-test.html  
   
 <img width="401" alt="image" src="https://github.com/Chenbai404/Chenbai404.github.io/assets/54025529/be7ad394-a692-40c5-97af-fc7beb1eea3c">  
   
-# 1.1 Goodness-of-fit chi-square test    
+## 1.1 Goodness-of-fit chi-square test    
   
 **Step1: make assumption**
 > For example, there are 10 packages suger and 5 flavors, in addition, each package has 100 suger.  
@@ -25,7 +25,7 @@
     
     
      
-# 1.2 chi-square test of independence  
+## 1.2 chi-square test of independence  
 **Note: two variables are independent, so the initial assumption was that they weren't related**  
   
 **Step1: Calculate Desired Count**  
@@ -36,6 +36,24 @@
 **Step3: Setting and comparing the level of significance**  
 > if  test statistic > chi-square value : reject    
 > if  test statistic <= chi-square value : agree    
+    
+    
+  
+  # 2. Data transformation  
+ ## 2.1 Normalisation  
+  
+ ## 2.2 Discretisation and concept hierarchy generation  
+  
+## 2.3 Binarisation  
   
   
+# 3. Data reduction
+
+
+
+
+
+
+
+
 
