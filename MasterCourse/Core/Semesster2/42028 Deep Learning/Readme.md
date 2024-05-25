@@ -1,5 +1,5 @@
 
-# This txt is to descript different .py files function  
+# Different .py files function  
     Note: we only use the train dataset, which means the total images and labels are 7481 
 
 
