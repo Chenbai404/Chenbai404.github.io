@@ -64,6 +64,7 @@ We also supply the code for testing model by images, videos and real time.
     2."Faster-RCNN-Video": using RCNN model to testing the video results.  
     3."Faster-RCNN-RealTime":  using RCNN model to testing by real time.  
     4."YOLO_Realtime":  using yolo model to testing by real time  
+  
 
-
+  Furthermore, we also supply the best weight of YOLO and Fast-RCNN in corresponding name folder.
 
